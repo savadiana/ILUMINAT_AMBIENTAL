@@ -47,9 +47,7 @@ Instrucțiuni de utilizare:
  - 	Intensitatea luminii ambientale este ajustată automat, proporțional cu luminozitatea „ecranului”. Cu cât ecranul este mai luminos, cu atât și iluminatul ambiental devine mai intens.
 
 
-Observații:
+5. Observații:
 -	Nu este necesară nicio calibrare manuală. Senzorul de lumină și algoritmul automat se ocupă de ajustarea luminii ambientale.
 -	Sistemul reacționează în timp real la modificările făcute de utilizator.
 
-
-  delay(100); }
